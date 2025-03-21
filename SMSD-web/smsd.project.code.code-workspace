@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../smsd.project"
+		},
+		{
+			"path": "../../python test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "smsd.project"
+	}
+}
